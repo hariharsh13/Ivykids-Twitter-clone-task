@@ -21,8 +21,8 @@
 </ul>
 <h3>To start application: </h3>
 <ul>
- <li>To start backend of the application go to Server folder and type <h4> : npm start</h4> in terminal. </li>
- <li>To start frontend of the application go to Client folder and type <h4> :npm start</h4> in terminal. </li>
+ <li>To start backend of the application go to Server folder and type <h4> : npm start</h4>  </li>
+ <li>To start frontend of the application go to Client folder and type <h4> :npm start</h4>  </li>
  
 </ul>
 </body>
