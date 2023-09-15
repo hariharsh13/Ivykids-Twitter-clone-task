@@ -19,6 +19,11 @@
   <li>Following and Followers</li>
   <li>Trending Topics</li>
 </ul>
-
+<h3>To start application: </h3>
+<ul>
+ <li>To start backend of the application go to Server folder and type <h6> :npm start</h6> in terminal. </li>
+ <li>To start frontend of the application go to Client folder and type <h6> :npm start</h6> in terminal. </li>
+ 
+</ul>
 </body>
 </html
