@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h3>project overview</h3>
+<h2>Project Overview</h2>
 <p>
   The Twitter Clone project aims to replicate the core functionalities of the popular social media platform Twitter(now known as X). Users can create accounts, post tweets, follow other users, like and retweet tweets, and engage with a community of users.
 </p>
