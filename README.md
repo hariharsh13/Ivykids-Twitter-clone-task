@@ -1,28 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> IVYkids-TWITTER-clone-task </title>
+ IVYkids-TWITTER-clone-task 
 </head>
 <body>
 
-<h1>index</h1>
+<h3>project overview</h3>
 <p>
-  <h3>There are 2 files: </h3>
-  <br/>
-  <ul>
-    <li>Server</li>
-    <li>Client</li>
-  </ul>
+  The Twitter Clone project aims to replicate the core functionalities of the popular social media platform Twitter(now known as X). Users can create accounts, post tweets, follow other users, like and retweet tweets, and engage with a community of users.
 </p>
-<p> how to start: </p>
 
-  <ul>
-    <li>To run backend open terminal in Server folder and write command : npm start</li>
-    <li>To run frontend open terminal in client folder and write command : npm start</li>
-  </ul>
-<p>
- in this apllication you can login , logout, make new friends and followers. you can share your thoughts and many more exciting stuffs.
-</p>
+<h3>Features</h3>
+<ul>
+  <li>User Registration and Authentication</li>
+  <li>User Profiles</li>
+  <li>Tweeting</li>
+  <li>Likes </li>
+  <li>Following and Followers</li>
+  <li>Trending Topics</li>
+</ul>
 
 </body>
 </html
